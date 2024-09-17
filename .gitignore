@@ -1,8 +1,9 @@
 # Dependency directories
 node_modules/
 
-# TypeScript cache
-*.tsbuildinfo
+# lint
+.vscode/
+biome.json
 
 # Optional npm cache directory
 .npm
